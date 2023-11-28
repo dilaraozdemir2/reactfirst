@@ -1,0 +1,180 @@
+{
+  "kategoriler": [
+    {
+      "id": 1,
+      "ad": "Bilgisayar"
+    },
+    {
+      "id": 2,
+      "ad": "Telefon"
+    },
+    {
+      "id": 3,
+      "ad": "Tablet"
+    },
+    {
+      "id": 4,
+      "ad": "Kamera"
+    },
+    {
+      "id": 5,
+      "ad": "Ev Eşyası"
+    },
+    {
+      "id": 6,
+      "ad": "Televizyon"
+    }
+  ],
+  "urunler": [
+    {
+      "id": 1,
+      "kategoriId": 1,
+      "baslik": "ThinkPad X1 Carbon Gen 11",
+      "aciklama": "14 inç Intel işlemcili dizüstü bilgisayar",
+      "resim": "https://www.lenovo.com/medias/?context=bWFzdGVyfHJvb3R8MTEwNTQwfGltYWdlL3BuZ3xoNjkvaGQ0LzE2OTM0MTIzMjA4NzM0LmpwZ3wzNDBmZjVjODAxNDc3YmJkNzYyMjk5MTA0ZmNkNDY1OTVmYmQ5ZmY2M2Q4NzI4YTUxNGMwMDRjY2EwNjJkNDU3",
+      "favoriSayisi": 15,
+      "banner": "1",
+      "date": "2023-01-01",
+      "tag": [
+        "teknoloji",
+        "dizüstü bilgisayar",
+        "işlemci"
+      ]
+    },
+    {
+      "id": 2,
+      "kategoriId": 2,
+      "baslik": "Apple MacBook Pro 2023",
+      "aciklama": "Yüksek performanslı Apple dizüstü bilgisayar",
+      "resim": "https://cdn.vox-cdn.com/thumbor/TLh0-T33GJnR4Qf_VKQXjFFxCbw=/0x0:2040x1360/2040x1360/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24371426/236492_MacBook_Pro_16__2023__AKrales_0009.jpg",
+      "favoriSayisi": 22,
+      "banner": "0",
+      "date": "2023-02-15",
+      "tag": [
+        "teknoloji",
+        "macOS",
+        "dizüstü bilgisayar"
+      ]
+    },
+    {
+      "id": 3,
+      "kategoriId": 3,
+      "baslik": "Microsoft Surface Pro 9",
+      "aciklama": "Gelişmiş özelliklere sahip Windows tablet",
+      "resim": "https://cdn.akakce.com/z/microsoft/microsoft-surface-pro-9-qf1-00013-i5-1235u-8-gb-256-gb-ssd-iris-xe-graphics-13.jpg",
+      "favoriSayisi": 18,
+      "banner": "1",
+      "date": "2023-03-30",
+      "tag": [
+        "teknoloji",
+        "Windows",
+        "tablet"
+      ]
+    },
+    {
+      "id": 4,
+      "kategoriId": 4,
+      "baslik": "Sony Alpha A7 IV",
+      "aciklama": "Profesyonel seviyede aynasız fotoğraf makinesi",
+      "resim": "https://4.img-dpreview.com/files/p/E~TS590x0~articles/9494401150/Product-Images/Sony_alpha_7IV_beauty.jpeg",
+      "favoriSayisi": 25,
+      "banner": "0",
+      "date": "2023-04-25",
+      "tag": [
+        "teknoloji",
+        "fotoğraf",
+        "aynasız kamera"
+      ]
+    },
+    {
+      "kategoriId": 5,
+      "baslik": "Samsung JetBot AI+",
+      "aciklama": "Ev temizliğinde yapay zeka destekli robot süpürge",
+      "resim": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNncksTBnPlnmIToC4dGp74oES6sNKwSMm8g&usqp=CAU",
+      "favoriSayisi": 28,
+      "banner": "1",
+      "date": "2023-05-20",
+      "tag": [
+        "ev eşyası",
+        "temizlik robotu",
+        "yapay zeka"
+      ],
+      "id": 5
+    },
+    {
+      "id": 6,
+      "kategoriId": 6,
+      "baslik": "LG C2 OLED TV",
+      "aciklama": "4K Smart OLED TV",
+      "resim": "https://n11scdn.akamaized.net/a1/640/06/30/73/13/IMG-2408869804586704277.jpg",
+      "favoriSayisi": 30,
+      "banner": "0",
+      "date": "2023-06-10",
+      "tag": [
+        "televizyon",
+        "akıllı TV",
+        "OLED TV"
+      ]
+    },
+    {
+      "id": 7,
+      "kategoriId": 1,
+      "baslik": "Dell XPS 15 2023",
+      "aciklama": "Güçlü performans sunan Windows dizüstü bilgisayar",
+      "resim": "https://n11scdn.akamaized.net/a1/640/05/79/05/50/IMG-1306371601754014855.jpg",
+      "favoriSayisi": 28,
+      "banner": "1",
+      "date": "2023-07-12",
+      "tag": [
+        "teknoloji",
+        "Windows",
+        "dizüstü bilgisayar"
+      ]
+    },
+    {
+      "id": 8,
+      "kategoriId": 2,
+      "baslik": "iPhone 15 Pro",
+      "aciklama": "Gelişmiş özelliklere sahip Apple akıllı telefon",
+      "resim": "https://cdn.easycep.com/assets/_blog/img/post/2023/04/kac-gb-telefon-almaliyim-48.webp?v=1.2.37",
+      "favoriSayisi": 32,
+      "banner": "0",
+      "date": "2023-08-20",
+      "tag": [
+        "teknoloji",
+        "iOS",
+        "akıllı telefon"
+      ]
+    },
+    {
+      "id": 9,
+      "kategoriId": 3,
+      "baslik": "Amazon Fire HD 11",
+      "aciklama": "Gelişmiş özelliklere sahip tablet",
+      "resim": "https://cdn.akakce.com/z/lenovo/lenovo-tab-m10-t610-4gb-65gb-8-gri-zaae0012tr.jpg",
+      "favoriSayisi": 26,
+      "banner": "1",
+      "date": "2023-09-18",
+      "tag": [
+        "teknoloji",
+        "tablet",
+        "Amazon"
+      ]
+    },
+    {
+      "id": 10,
+      "kategoriId": 4,
+      "baslik": "Nikon Z8",
+      "aciklama": "Yüksek çözünürlüklü aynasız fotoğraf makinesi",
+      "resim": "https://cdn.dsmcdn.com/ty840/product/media/images/20230422/13/330058956/840738754/1/1_org_zoom.jpg",
+      "favoriSayisi": 35,
+      "banner": "0",
+      "date": "2023-10-30",
+      "tag": [
+        "teknoloji",
+        "fotoğraf",
+        "aynasız kamera"
+      ]
+    }
+  ]
+}
