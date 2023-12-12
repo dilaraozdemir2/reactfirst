@@ -1,0 +1,180 @@
+{
+  "kategoriler": [
+    {
+      "id": 1,
+      "ad": "Aktif Yaşam  "
+    },
+    {
+      "id": 2,
+      "ad": "Avrupa"
+    },
+    {
+      "id": 3,
+      "ad": "Asya"
+    },
+    {
+      "id": 4,
+      "ad": "Türkiye"
+    },
+    {
+      "id": 5,
+      "ad": "Amerika"
+    },
+    {
+      "id": 6,
+      "ad": "Seyahat Rehberi"
+    }
+  ],
+  "bloglar": [
+    {
+      "kategoriId": 1,
+      "baslik": "VENEDİK’TE NEREDE KALINIR – HER BÜTÇEYE GÖRE VENEDİK OTELLERİ",
+      "aciklama": "İtalya",
+      "resim": "https://www.bizevdeyokuz.com/wp-content/uploads/Baglioni-Hotel-Luna-venedik-770x433.jpg",
+      "favoriSayisi": 16,
+      "banner": "1",
+      "date": "2023-01-01",
+      "tag": [
+        "teknoloji",
+        "dizüstü bilgisayar",
+        "işlemci"
+      ],
+      "id": 1
+    },
+    {
+      "kategoriId": 2,
+      "baslik": "BARSELONA’DA NEREDE KALINIR? – EN KEYİFLİ MAHALLELER",
+      "aciklama": "İspanya",
+      "resim": "https://www.bizevdeyokuz.com/wp-content/uploads/Mandarin-Oriental-Barcelona-770x433.jpg",
+      "favoriSayisi": 23,
+      "banner": "0",
+      "date": "2023-02-15",
+      "tag": [
+        "teknoloji",
+        "macOS",
+        "dizüstü bilgisayar"
+      ],
+      "id": 2
+    },
+    {
+      "id": 3,
+      "kategoriId": 3,
+      "baslik": "ÖDEMİŞ’TE GEZİLECEK YERLER",
+      "aciklama": "Ödemiş",
+      "resim": "https://www.bizevdeyokuz.com/wp-content/uploads/odemis-gezilecek-yerler-770x433.jpg",
+      "favoriSayisi": 18,
+      "banner": "1",
+      "date": "2023-03-30",
+      "tag": [
+        "teknoloji",
+        "Windows",
+        "tablet"
+      ]
+    },
+    {
+      "id": 4,
+      "kategoriId": 4,
+      "baslik": "BARSELONA’DA GEZİLECEK YERLER",
+      "aciklama": "İspanya",
+      "resim": "https://www.bizevdeyokuz.com/wp-content/uploads/barselona-kapak-4.jpg",
+      "favoriSayisi": 25,
+      "banner": "0",
+      "date": "2023-04-25",
+      "tag": [
+        "teknoloji",
+        "fotoğraf",
+        "aynasız kamera"
+      ]
+    },
+    {
+      "kategoriId": 5,
+      "baslik": "VENEDİK’TE GEZİLECEK YERLER",
+      "aciklama": "İtalya",
+      "resim": "https://www.bizevdeyokuz.com/wp-content/uploads/venedik-kapak-3-770x433.jpg",
+      "favoriSayisi": 28,
+      "banner": "1",
+      "date": "2023-05-20",
+      "tag": [
+        "ev eşyası",
+        "temizlik robotu",
+        "yapay zeka"
+      ],
+      "id": 5
+    },
+    {
+      "id": 6,
+      "kategoriId": 6,
+      "baslik": "FLORANSA’DA GEZİLECEK YERLER",
+      "aciklama": "İtalya",
+      "resim": "https://www.bizevdeyokuz.com/wp-content/uploads/floransa-kapak-2-770x433.jpg",
+      "favoriSayisi": 30,
+      "banner": "0",
+      "date": "2023-06-10",
+      "tag": [
+        "televizyon",
+        "akıllı TV",
+        "OLED TV"
+      ]
+    },
+    {
+      "id": 7,
+      "kategoriId": 1,
+      "baslik": "TOSKANA’DA GEZİLECEK YERLER",
+      "aciklama": "İtalya",
+      "resim": "https://www.bizevdeyokuz.com/wp-content/uploads/toskana-kapak-770x433.jpg",
+      "favoriSayisi": 28,
+      "banner": "1",
+      "date": "2023-07-12",
+      "tag": [
+        "teknoloji",
+        "Windows",
+        "dizüstü bilgisayar"
+      ]
+    },
+    {
+      "id": 8,
+      "kategoriId": 2,
+      "baslik": "ROMA’DA GEZİLECEK YERLER",
+      "aciklama": "İtalya",
+      "resim": "https://www.bizevdeyokuz.com/wp-content/uploads/pantheon-roma-6-770x433.jpg",
+      "favoriSayisi": 32,
+      "banner": "0",
+      "date": "2023-08-20",
+      "tag": [
+        "teknoloji",
+        "iOS",
+        "akıllı telefon"
+      ]
+    },
+    {
+      "id": 9,
+      "kategoriId": 3,
+      "baslik": "İĞNEADA’DA GEZİLECEK YERLER – 2 GÜNLÜK İĞNEADA PROGRAMI",
+      "aciklama": "Kırklareli",
+      "resim": "https://www.bizevdeyokuz.com/wp-content/uploads/longosphere-glamping-igneada-770x433.jpg",
+      "favoriSayisi": 26,
+      "banner": "1",
+      "date": "2023-09-18",
+      "tag": [
+        "teknoloji",
+        "tablet",
+        "Amazon"
+      ]
+    },
+    {
+      "id": 10,
+      "kategoriId": 4,
+      "baslik": "ROMA’DA NE YAPILIR – ROMA’NIN 29 OLMAZSA OLMAZI",
+      "aciklama": "İtalya ",
+      "resim": "https://www.bizevdeyokuz.com/wp-content/uploads/roma-kapak.jpg",
+      "favoriSayisi": 35,
+      "banner": "0",
+      "date": "2023-10-30",
+      "tag": [
+        "teknoloji",
+        "fotoğraf",
+        "aynasız kamera"
+      ]
+    }
+  ]
+}
